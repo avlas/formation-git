@@ -1,2 +1,2 @@
 # formation-git
-personal repository, nothing to see here
+personal repository exemple, nothing to see here
